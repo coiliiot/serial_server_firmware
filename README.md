@@ -1,1 +1,1 @@
-# serial_server_firmware
+serial_server_firmware running on espressif MCUs
